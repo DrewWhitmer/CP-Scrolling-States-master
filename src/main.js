@@ -1,6 +1,6 @@
 // Code Practice: Scrolling States
-// Name:
-// Date: 
+// Name: Drew Whitmer
+// Date: 2/7/2025
 
 'use strict'
 
